@@ -93,9 +93,9 @@ nav a:hover {
 }
 
 .project-card img {
-    width: 100%;
-    height: auto;
-    border-radius: 8px;
+    width: 372px;
+    height: 236px;
+    object-fit: cover;
 }
 
 /* Footer */
